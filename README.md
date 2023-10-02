@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=David+Sousa+da+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Jr.)](https://git.io/typing-svg)
 <!--
 **davidplay7/davidplay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
