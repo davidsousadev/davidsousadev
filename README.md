@@ -1,7 +1,7 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Jr.)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-sousa-da-silva/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousa.dev/)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Jr.)](https://git.io/typing-svg)
 
 <!--
 **davidplay7/davidplay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
