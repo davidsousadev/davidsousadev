@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=davidplay7&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 ### Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-sousa-da-silva/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousa.dev/)
