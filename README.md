@@ -1,4 +1,4 @@
-<table  style="border:none; position: relative;">
+<table  style="border:none; position: relative; background-color: black;">
     <tr>
       <td>
         
