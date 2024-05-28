@@ -29,14 +29,14 @@
                 <td>
                         <table style="width: fit-content; border:0;">
                                 <tr>
-                                        <a href="https://github.com/davidplay7">
-                                               <img src="https://github-readme-stats.vercel.app/api?username=davidplay7&show_icons=true&theme=radical&include_all_commits=true"
+                                        <a href="https://github.com/davidsousadev">
+                                               <img src="https://github-readme-stats.vercel.app/api?username=davidsousadev&show_icons=true&theme=radical&include_all_commits=true"
                                                         alt="davidplay7's github stats" width="500"/>
                                         </a> 
                                 </tr>
                           <br/>
                                 <tr> 
-                                              <a href="https://github.com/davidplay7">
+                                              <a href="https://github.com/davidsousadev">
                                                                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidplay7&layout=donut&theme=dark&hide_border=true&langs_count=6"
                                                                           width="500" /></a>
                                 </tr>
