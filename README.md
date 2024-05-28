@@ -37,7 +37,7 @@
                           <br/>
                                 <tr> 
                                               <a href="https://github.com/davidsousadev">
-                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidplay7&layout=donut&theme=dark&hide_border=true&langs_count=6"
+                                                                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsousadev&layout=donut&theme=dark&hide_border=true&langs_count=6"
                                                                           width="500" /></a>
                                 </tr>
                         </table>
