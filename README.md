@@ -22,9 +22,9 @@
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
         <tr>
                 <td>
-                        <a href="https://app.daily.dev/davidplay7">
-                                <img src="https://api.daily.dev/devcards/2d7ef0c6132e4f9aabb9c817d8867029.png?r=gsg" width="500" alt="David Sousa's Dev Card"/>
-                        </a>
+                        <!-- <a href="https://app.daily.dev/davidplay7">
+                               <img src="https://api.daily.dev/devcards/2d7ef0c6132e4f9aabb9c817d8867029.png?r=gsg" width="500" alt="David Sousa's Dev Card"/>
+                        </a>-->
                 </td>
                 <td>
                         <table style="width: fit-content; border:0;">
