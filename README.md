@@ -4,8 +4,8 @@
         
 ### Hi there 👋
 ###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-sousa-da-silva/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousa.dev/)          
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davidsousadev/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousadev/)          
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+Jr.)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,java,react)](https://skillicons.dev)
       </td>
