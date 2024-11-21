@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=header"/>
 <table width="100%" height="100%" style="border:none;">
     <tr>
-        <td>
+        <!-- <td>
                 <a href="https://app.daily.dev/davidsousadev"><img src="https://api.daily.dev/devcards/v2/WVyH5YDVvBqRR34zNRQU6.png?r=w5x&type=default"  alt="David Sousa's Dev Card"/></a>
-      </td>
+      </td> -->
       <td>
         
 > # Sejam bem vindos!   👋
@@ -25,7 +25,7 @@
 > ### 💾 Databases: 
 > ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 > ### 💬 Redes Sociais: 
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davidsousadev/)[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousadev/) 
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davidsousadev/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousadev/) [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@davidsousadev/) 
 > ### 📂 Portifolio: 
 > [Vercel](https://meu-portifolio-david.vercel.app/) 
 > ### 📎 Curriculum: 
