@@ -1,11 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=header"/>
-<table width="100%" height="100%" style="border:none;">
-    <tr>
-        <!-- <td>
-                <a href="https://app.daily.dev/davidsousadev"><img src="https://api.daily.dev/devcards/v2/WVyH5YDVvBqRR34zNRQU6.png?r=w5x&type=default"  alt="David Sousa's Dev Card"/></a>
-      </td> -->
-      <td>
-        
+
 > # Sejam bem vindos!   👋
 > ### Sou David Sousa tenho 28 anos e Licenciando em Computação pela UFPI
 > ### Atualmente busco estágio em Desenvolvimento Full Stack
@@ -30,16 +24,8 @@
 > [Vercel](https://meu-portifolio-david.vercel.app/) 
 > ### 📎 Curriculum: 
 > [Download](https://cutme.vercel.app/vUgoWuH3CN) 
-</td>      
-    </tr>
-
-</table>
-
-
-
 
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
-
 
 ## Github Stats
 <table align="center" width="100%" height="100%" >
