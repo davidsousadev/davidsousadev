@@ -7,6 +7,8 @@
  🎓 Formação Técnica: <br>
  💻 Desenvolvimento de Sistemas, Contabilidade e Informática - IFPI<br>
  ⚡ Atualmente busco estágio em TI
+### 💬 Redes Sociais: 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://cutme.vercel.app/linkedin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://cutme.vercel.app/instagram)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://cutme.vercel.app/youtube) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://cutme.vercel.app/x)
 </div>
 
 > ### ❤️ Principais Linguagens: 
@@ -22,8 +24,6 @@
 >```
 > ### 💾 Databases: 
 > ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-> ### 💬 Redes Sociais: 
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davidsousadev/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/davidsousadev/) [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@davidsousadev/) 
 > ### 📂 Portifolio: 
 > [Vercel](https://meu-portifolio-david.vercel.app/) 
 > ### 📎 Curriculum: 
@@ -43,7 +43,7 @@
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{davidsousadev}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://pprofile-counter.glitch.me/{davidsousadev}/count.svg" /></p> 
   <br>
 </div>
 
