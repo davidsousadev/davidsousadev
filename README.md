@@ -1,10 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a43e0&height=120&section=header"/>
 
-> # Sejam bem vindos!   👋
-> ### Sou David Sousa Licenciando em Computação pela UFPI
-> ### Atualmente busco estágio em TI
-> ### 🎓 Formação Técnica: 
-> ### Desenvolvimento de Sistemas, Contabilidade e Informática - IFPI
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou David Sousa
+ 👩🏻‍💻 Licenciando em Computação pela UFPI 5/8.<br>
+ 🎓 Formação Técnica: <br>
+ 💻 Desenvolvimento de Sistemas, Contabilidade e Informática - IFPI<br>
+ ⚡ Atualmente busco estágio em TI
+</div>
+
 > ### ❤️ Principais Linguagens: 
 > ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23316192.svg?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 > ### 💻 Tecnologias Web: 
@@ -24,15 +28,8 @@
 > [Vercel](https://meu-portifolio-david.vercel.app/) 
 > ### 📎 Curriculum: 
 > [Download](https://cutme.vercel.app/vUgoWuH3CN) 
-
+<!--
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
-
-<<<<<<< HEAD
-=======
-
-
-<!-- 
->>>>>>> 296922f (add count and card daily)
 ## Github Stats
 <table align="center" width="100%" height="100%" >
     <tr>
