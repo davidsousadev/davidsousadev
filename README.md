@@ -43,7 +43,7 @@
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://pprofile-counter.glitch.me/{davidsousadev}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{davidsousadev}/count.svg" /></p> 
   <br>
 </div>
 
