@@ -11,6 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://cutme.vercel.app/linkedin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://cutme.vercel.app/instagram)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://cutme.vercel.app/youtube) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://cutme.vercel.app/x)
 </div>
 
+> ### 📂 Principais Projetos
+
+[![](https://raw.githubusercontent.com/davidsousadev/buy-tech/refs/heads/main/src/imagens/banner.png)](https://github.com/davidsousadev/buy-tech)
+
 > ### ❤️ Principais Linguagens: 
 > ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23316192.svg?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 > ### 💻 Tecnologias Web: 
@@ -24,8 +28,6 @@
 >```
 > ### 💾 Databases: 
 > ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-> ### 📂 Portifolio: 
-> [Vercel](https://meu-portifolio-david.vercel.app/) 
 > ### 📎 Curriculum: 
 > [Download](https://cutme.vercel.app/vUgoWuH3CN) 
 <!--
