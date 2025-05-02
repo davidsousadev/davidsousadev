@@ -14,6 +14,7 @@
 > ### 📂 Principais Projetos
 
 [![](https://raw.githubusercontent.com/davidsousadev/buy-tech/refs/heads/main/src/imagens/banner.png)](https://github.com/davidsousadev/buy-tech)
+[![](https://raw.githubusercontent.com/davidsousadev/cutme/refs/heads/main/public/imagens/banner.png)](https://github.com/davidsousadev/cutme)
 
 > ### ❤️ Principais Linguagens: 
 > ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23316192.svg?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
