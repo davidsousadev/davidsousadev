@@ -3,7 +3,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou David Sousa
- 👩🏻‍💻 Licenciando em Computação pela UFPI 5/8.<br>
+ 👩🏻‍💻 Licenciando em Computação pela UFPI 6/8.<br>
  🎓 Formação Técnica: <br>
  💻 Desenvolvimento de Sistemas, Contabilidade e Informática - IFPI<br>
  ⚡ Atualmente busco estágio em TI
