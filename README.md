@@ -23,20 +23,44 @@
 | Projeto | Descrição |
 |--------|------------|
 | [Buy Tech](https://github.com/davidsousadev/buy-tech) | Loja virtual desenvolvida com foco em usabilidade e design moderno |
-| [CutMe](https://github.com/davidsousadev/cutme) | Encurtador de links com QR Code e analytics simples |
+| [Cut Me](https://github.com/davidsousadev/cutme) | Encurtador de links com QR Code e analytics simples |
+| [Teste Me](https://github.com/davidsousadev/testeme) | Plataforma de desafios Web e Mobile |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/davidsousadev/buy-tech/refs/heads/main/src/imagens/banner.png" width="45%"/>
-  <img src="https://raw.githubusercontent.com/davidsousadev/cutme/refs/heads/main/public/imagens/banner.png" width="45%"/>
+  <a href="https://github.com/davidsousadev/buy-tech"><img src="https://raw.githubusercontent.com/davidsousadev/buy-tech/refs/heads/main/src/imagens/banner.png" width="49%"/></a>
+  <a href="https://github.com/davidsousadev/cutme"><img src="https://raw.githubusercontent.com/davidsousadev/cutme/refs/heads/main/public/imagens/banner.png" width="49%"/></a>
 </div>
+<div align="center">
+  <a href="https://github.com/davidsousadev/testeme"><img src="https://raw.githubusercontent.com/davidsousadev/testeme/refs/heads/main/src/images/banner.png" width="49%"/></a>
+  
+</div>
+
+## 📚 Bibliotecas
+
+### Python
+
+```bash 
+pip install davidsousa
+```
+
+### Node
+
+```bash 
+npm install davidsousa
+```
+
+### JavaScript
+
+* [LibsMe](https://libsme.vercel.app/)
+
 
 ---
 
 ## 🧠 Tecnologias & Habilidades
 
-| 💻 Linguagens | 🌐 Web | 🚀 Frameworks | 📚 Bibliotecas | 💾 Bancos de Dados |
-|---------------|--------|----------------|----------------|--------------------|
-| ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) <br> ![PHP](https://img.shields.io/badge/Php-%23316192.svg?style=flat-square&logo=php&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-0D9996?style=flat-square&logo=fastapi&logoColor=white) | [LibsMe](https://libsme.vercel.app/) <br> <pre>pip install davidsousa</pre> | ![MySQL](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
+| 💻 Linguagens | 🌐 Web | 🚀 Frameworks | 💾 Bancos de Dados |
+|---------------|--------|----------------|--------------------|
+| ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) <br> ![PHP](https://img.shields.io/badge/Php-%23316192.svg?style=flat-square&logo=php&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-0D9996?style=flat-square&logo=fastapi&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
