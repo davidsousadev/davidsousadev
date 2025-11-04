@@ -71,7 +71,11 @@ npm install davidsousa
 ---
 
 <div align="center">
-  <img width="100%" src="snake.svg" alt="Snake animation"/>
+  <picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidsousadev/davidsousadev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidsousadev/davidsousadev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidsousadev/davidsousadev/output/github-contribution-grid-snake.svg">
+</picture>
   <img width="100%" src="https://lh3.googleusercontent.com/pw/AP1GczMVFX-07bFv0f8rFW4NVbEXO5IcZUL6ueDNrGP8x1Eh2udMSTZtCbCKX_Zh-mv9E1kSOKYHDCIzux63B0aBUOxl9J5OIS5deTdbsmzU4BWkeXDynz2SOq1QfHMwzyj6suBzIm4aBwb_5CV8xE0S_K0U=w1200-h180-s-no-gm?authuser=0">
 </div>
 
