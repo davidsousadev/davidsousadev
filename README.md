@@ -173,7 +173,7 @@ npm install davidsousa
 
 ## 📎 Currículo
 
-📄 [Clique aqui para baixar meu currículo](https://cutme.vercel.app/curriculum-vitae)
+📄 [Clique aqui para baixar meu currículo](https://cutme.vercel.app/cv-canvas)
 
 ---
 
