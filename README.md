@@ -60,7 +60,7 @@
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
-  <table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <table style="width: 90%; text-align: center; border-collapse: collapse;">
     <tr>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">🚀 Projeto</th>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">📝 Descrição</th>
@@ -138,7 +138,7 @@ npm install davidsousa
 ## 🧠 Tecnologias & Habilidades
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <table style="width: 100%; text-align: center;">
+  <table style="width: 90%; text-align: center;">
     <tr>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">💻 Linguagens</th>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">🌐 Web</th>
@@ -200,15 +200,13 @@ npm install davidsousa
   />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidsousadev&bg_color=1A1B27&color=9180FF&line=9180FF&point=9180FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
 
 <div align="center">
   <picture align="center" >
