@@ -60,7 +60,7 @@
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
-  <table style="width: 90%; text-align: center; border-collapse: collapse;">
+  <table style="width: 90%; text-align: left; border-collapse: collapse;">
     <tr>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">🚀 Projeto</th>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">📝 Descrição</th>
@@ -138,7 +138,8 @@ npm install davidsousa
 ## 🧠 Tecnologias & Habilidades
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <table style="width: 90%; text-align: center;">
+
+  <table style="width: 90%; text-align: left; border-collapse: collapse;">
     <tr>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">💻 Linguagens</th>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">🌐 Web</th>
