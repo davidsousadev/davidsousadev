@@ -108,7 +108,7 @@
   <a href="https://github.com/davidsousadev/cutme"><img src="https://raw.githubusercontent.com/davidsousadev/cutme/refs/heads/main/public/imagens/banner.png" width="49%"/></a>
 </div>
 <div align="center">
-  <a href="https://github.com/davidsousadev/testeme"><img src="https://raw.githubusercontent.com/davidsousadev/testeme/refs/heads/main/web/public/images/banner.png" width="49%"/></a>
+  <a href="https://github.com/davidsousadev/testeme"><img src="https://raw.githubusercontent.com/davidsousadev/testeme/refs/heads/main/src/images/banner.png" width="49%"/></a>
     <a href="https://github.com/davidsousadev/meulinkbio"><img src="https://raw.githubusercontent.com/davidsousadev/meulinkbio/refs/heads/main/public/images/banner.png" width="49%"/></a>
 
   
