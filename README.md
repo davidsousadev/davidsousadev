@@ -60,7 +60,7 @@
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
-  <table style="width: 90%; text-align: left; border-collapse: collapse;">
+  <table style="width: 90%; margin: auto; border-collapse: collapse;" align="center" width="90%">
     <tr>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">🚀 Projeto</th>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">📝 Descrição</th>
