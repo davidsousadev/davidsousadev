@@ -8,7 +8,7 @@
 
   <table style="width: 90%; text-align: left; border-collapse: collapse;">
     <tr>
-      <td style="padding: 10px;">🎓 <strong>Licenciando em Computação</strong> pela UFPI – 6º período</td>
+      <td style="padding: 10px;">🎓 <strong>Licenciando em Computação</strong> pela UFPI – 7º período</td>
     </tr>
     <tr>
       <td style="padding: 10px;">🎓 <strong>Formação Técnica:</strong> Desenvolvimento de Sistemas, Contabilidade e Informática – IFPI</td>
@@ -139,7 +139,7 @@ npm install davidsousa
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
-  <table style="width: 90%; text-align: left; border-collapse: collapse;">
+  <table style="width: 90%; margin: auto; border-collapse: collapse;" align="center" width="90%">
     <tr>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">💻 Linguagens</th>
       <th style="padding: 10px; border-bottom: 2px solid #555; text-align: center;">🌐 Web</th>
@@ -178,7 +178,7 @@ npm install davidsousa
 ---
 
 ### 📊 Estatísticas
-
+<!--
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
   <img 
@@ -200,7 +200,7 @@ npm install davidsousa
     src="https://github-profile-trophy.vercel.app/?username=davidsousadev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" 
   />
 </div>
-
+-->
 <br>
 
 <div align="center">
