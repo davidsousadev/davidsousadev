@@ -14,7 +14,7 @@
       <td style="padding: 10px;">🎓 <strong>Formação Técnica:</strong> Desenvolvimento de Sistemas, Contabilidade e Informática – IFPI</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">🚀 <strong>Atualmente:</strong> Buscando estágio na área de TI</td>
+      <!-- <td style="padding: 10px;">🚀 <strong>Atualmente:</strong> Buscando estágio na área de TI</td> -->
     </tr>
   </table>
 
