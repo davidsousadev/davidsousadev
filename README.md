@@ -8,10 +8,10 @@
 
   <table style="width: 90%; text-align: left; border-collapse: collapse;">
     <tr>
-      <td style="padding: 10px;">🎓 <strong>Licenciando em Computação</strong> pela UFPI – 7º período</td>
+      <td style="padding: 10px;">🎓 <strong>Licenciando em Computação</strong> - UFPI</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">🎓 <strong>Formação Técnica:</strong> Desenvolvimento de Sistemas, Contabilidade e Informática – IFPI</td>
+      <td style="padding: 10px;">🎓 <strong>Formação:</strong> Desenvolvimento de Sistemas, Contabilidade e Informática – IFPI</td>
     </tr>
     <tr>
       <!-- <td style="padding: 10px;">🚀 <strong>Atualmente:</strong> Buscando estágio na área de TI</td> -->
