@@ -7,11 +7,11 @@
 <div style="width: 100%; display: flex; justify-content: center;">
 
   <table style="width: 90%; text-align: left; border-collapse: collapse;">
+     <tr>
+      <td style="padding: 10px;">🎓 <strong>Professor de Informática</strong></td>
+     </tr>
     <tr>
-      <td style="padding: 10px;">🎓 <strong>Licenciando em Computação</strong> - UFPI</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">🎓 <strong>Formação:</strong> Desenvolvimento de Sistemas, Contabilidade e Informática – IFPI</td>
+      <td style="padding: 10px;">🎓 <strong>Licenciatura em Computação</strong> - UFPI</td>
     </tr>
     <tr>
       <!-- <td style="padding: 10px;">🚀 <strong>Atualmente:</strong> Buscando estágio na área de TI</td> -->
